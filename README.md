@@ -8,7 +8,10 @@ Now while the app is in the foreground and you turn on Internet connection again
 To me it seems like the initial error message from TokenCredentials.create() is cached somehow and will fail until you kill the application process and restart it.
 
 # Video showing the problem
-<video src='https://drive.google.com/file/d/1VkUUyQUO00ubeJpbfddweKwK-EqNc5D8/view' width=180> </video>
+<video src="https://github.com/erlingfjelstad/esri-auth-to-map/assets/4091353/5398764c-36e7-40c0-9a68-cb3e7e2dc5a6"></video>
+
+
+
 
 # Description of what's happening in the video
 Firstly I demonstrate that we manage to successfully authenticate to the map while we have Internet connectivity.
